@@ -1,0 +1,21 @@
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
+.vs/
+*.sln.user
+*.suo
+
+# appsettings with API key
+appsettings.Development.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
